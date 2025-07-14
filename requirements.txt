@@ -1,0 +1,10 @@
+# Required packages
+fastapi
+pydantic
+openai
+ollama
+telethon
+tweepy
+feedparser
+beautifulsoup4
+pymongo
